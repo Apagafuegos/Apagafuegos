@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Apagafuegos
-- 👀 I’m interested in OOP
-- 🌱 I’m currently learning Java.
+- 👋 Hi, I’m @Apagafuegos.
+- 👀 I’m interested in OOP.
+- 🌱 I’m currently learning Java, Dart and Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @extinthor17
+- 📫 How to reach me ->
+    email : carsanexp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
